@@ -1,0 +1,10 @@
+.center-icons {
+    position: fixed;
+    top: 50px; /* Adjust the distance from the top as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Adjust gap between icons as needed */
+  }
+  

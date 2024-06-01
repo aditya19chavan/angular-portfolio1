@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: #14283d;
+    padding: 2rem 1rem;
+    text-align: center;
+    
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.center-icons {
+    position: fixed;
+    top: 70px; /* Adjust the distance from the top as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Adjust gap between icons as needed */
+  }
+  
+  
+  
